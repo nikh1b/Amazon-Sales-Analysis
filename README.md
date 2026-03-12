@@ -58,11 +58,6 @@ amazon-sales-analysis/
 
 ---
 
-### 📈 Dashboard Preview
-
-![Dashboard Overview](Screenshot 2026-03-12 233654.png)
-
----
 
 ### 🛠️ Tech Stack
 
