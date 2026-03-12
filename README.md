@@ -60,7 +60,7 @@ amazon-sales-analysis/
 
 ### 📈 Dashboard Preview
 
-![Dashboard Overview](dashboard_screenshots/overview.png)
+![Dashboard Overview](Screenshot 2026-03-12 233654.png)
 
 ---
 
